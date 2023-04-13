@@ -1,5 +1,3 @@
-import * as yup from "yup";
-
 async function wrapper() {
   console.log("running...");
 
